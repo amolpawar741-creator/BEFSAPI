@@ -1,0 +1,28 @@
+name: Build BEFS API
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore
+        run: dotnet restore BEFS.sln
+
+      - name: Build
+        run: dotnet build BEFS.sln --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test BEFS.sln --no-build --verbosity normal
