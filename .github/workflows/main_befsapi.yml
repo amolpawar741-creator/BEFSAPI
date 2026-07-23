@@ -19,7 +19,10 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore
-        run: dotnet restore BEFS/BEFS.csproj
+        run: dotnet restore BEFS.sln
 
       - name: Build
-        run: dotnet build BEFS/BEFS.csproj --configuration Release --no-restore
+        run: dotnet build BEFS.sln --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test BEFS.sln --no-build --verbosity normal
