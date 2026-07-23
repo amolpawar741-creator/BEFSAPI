@@ -89,3 +89,4 @@ C:\Users\AIO\Desktop\Angular Videos\AngularProject\BEFS\BEFS\obj\Debug\net8.0\re
 C:\Users\AIO\Desktop\Angular Videos\AngularProject\BEFS\BEFS\obj\Debug\net8.0\BEFS.pdb
 C:\Users\AIO\Desktop\Angular Videos\AngularProject\BEFS\BEFS\obj\Debug\net8.0\BEFS.genruntimeconfig.cache
 C:\Users\AIO\Desktop\Angular Videos\AngularProject\BEFS\BEFS\obj\Debug\net8.0\ref\BEFS.dll
+C:\Users\AIO\Desktop\Angular Videos\AngularProject\BEFS\BEFS\obj\Debug\net8.0\BEFS.sourcelink.json

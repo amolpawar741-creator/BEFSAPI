@@ -24,11 +24,9 @@ builder.Services.AddCors(options =>
             .AllowAnyHeader()
             .AllowAnyMethod()
             .AllowCredentials());
-});
-
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("dbConn"))
-);
+} );
+builder.Services.AddDbContext<AppDbContext>(opt =>
+opt.UseSqlServer(builder.Configuration.GetConnectionString("dbConn")));
 
 builder.Services.AddControllers();
 

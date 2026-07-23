@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\befs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:befs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\utility\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:utility\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\utility\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:utility\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|c:\\users\\aio\\desktop\\angular videos\\angularproject\\befs\\befs\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F3FC7-E24A-4DA4-87B2-F6B59FC4C2DF}|BEFS.csproj|solutionrelative:entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,76 +50,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BEFS",
-              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\BEFS.csproj",
-              "RelativeDocumentMoniker": "BEFS.csproj",
-              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\BEFS.csproj",
-              "RelativeToolTip": "BEFS.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-26T06:06:25.056Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CaptchaController.cs",
-              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\CaptchaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CaptchaController.cs",
-              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\CaptchaController.cs",
-              "RelativeToolTip": "Controllers\\CaptchaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T14:07:53.736Z",
+              "WhenOpened": "2026-07-23T15:15:53.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T13:26:53.092Z",
+              "WhenOpened": "2026-07-23T15:15:46.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Utility\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Utility\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Utility\\PasswordHasher.cs",
+              "RelativeToolTip": "Utility\\PasswordHasher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T01:48:18.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaptchaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Utility\\CaptchaGenerator.cs",
+              "RelativeDocumentMoniker": "Utility\\CaptchaGenerator.cs",
+              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Utility\\CaptchaGenerator.cs",
+              "RelativeToolTip": "Utility\\CaptchaGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T01:48:11.036Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Entities\\Users.cs",
+              "RelativeToolTip": "Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T01:47:48.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T01:47:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T13:26:27.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T13:26:20.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T13:26:20.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Entities\\Menu.cs",
               "RelativeDocumentMoniker": "Entities\\Menu.cs",
@@ -115,18 +166,17 @@
               "RelativeToolTip": "Entities\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:50:35.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T15:50:35.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
               "ToolTip": "C:\\Users\\AIO\\Desktop\\Angular Videos\\AngularProject\\BEFS\\BEFS\\Controllers\\MenuController.cs",
               "RelativeToolTip": "Controllers\\MenuController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T14:51:41.075Z",
               "EditorCaption": ""
